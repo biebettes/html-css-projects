@@ -17,7 +17,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
--The Blog Preview Card project is a representation of blog content, offering users a glimpse into the article's title, date of publication, excerpt, and author information.
+- The Blog Preview Card project is a representation of blog content, offering users a glimpse into the article's title, date of publication, excerpt, and author information.
 
 ### Features
 - The project utilizes HTML and CSS for arranging and styling blog content. Features include a responsive layout, clean and minimalist design for enhanced readability and visual appeal.
